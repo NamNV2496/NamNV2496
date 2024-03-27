@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### WELCOME TO MY PAGE 👋👋👋
+My name is Nam Nguyen. I am an software engineer. I am interested in the following topics: DSA, Java, golang<br>
+## 📫 How to reach me: 
+
+
+
+![Nam's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NamNV2496&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+<a href="https://github.com/NamNV2496/zipResponse/">
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NamNV2496&repo=zipResponse&theme=radical" />
+</a>    
+<a href="https://github.com/NamNV2496/EntityMapping/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NamNV2496&repo=EntityMapping&theme=merko" />
+</a>
