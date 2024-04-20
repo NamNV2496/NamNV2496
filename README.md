@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 My name is Nam Nguyen. I am an software engineer. I am interested in the following topics: DSA, Java, golang<br>
 ## 📫 How to reach me: 
 
-
-
+<!--
 ![Nam's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NamNV2496&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+-->
 
+![Nam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamNV2496&show_icons=true&theme=dracula&line_height=40)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamNV2496&theme=dracula&hide=css,html,javascript)
 
 
