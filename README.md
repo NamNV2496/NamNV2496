@@ -26,15 +26,15 @@ My name is Nam Nguyen. I am an software engineer. I am interested in the followi
 ![Nam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamNV2496&show_icons=true&theme=dracula&line_height=40)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamNV2496&theme=dracula&hide=css,html,javascript)
 
-
+<!--
 <a href="https://github.com/NamNV2496/zipResponse/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NamNV2496&repo=zipResponse&theme=radical" />
 </a>
 
 <a href="https://github.com/NamNV2496/EntityMapping/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NamNV2496&repo=EntityMapping&theme=merko" />
 </a>
+-->
 
 <a href="https://github.com/NamNV2496/auditing/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
