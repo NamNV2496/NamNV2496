@@ -23,9 +23,10 @@ My name is Nam Nguyen. I am an software engineer. I am interested in the followi
 ![Nam's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NamNV2496&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 -->
 
-![Nam's GitHub Stats](https://github.com/NamNV2496/github-stats/blob/master/generated/overview.svg)
-<!-- ![Nam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamNV2496&show_icons=true&theme=dracula&line_height=40) -->
+<!-- ![Nam's GitHub Stats](https://github.com/NamNV2496/github-stats/blob/master/generated/overview.svg) -->
+![Nam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamNV2496&show_icons=true&theme=dracula&line_height=40) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamNV2496&theme=dracula&hide=css,html,javascript)
+<!-- ![](https://github.com/tranHieuDev23/github-stats/blob/master/generated/languages.svg) -->
 
 <!--
 <a href="https://github.com/NamNV2496/zipResponse/">
