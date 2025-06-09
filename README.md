@@ -32,11 +32,13 @@ My name is Nam Nguyen. I am an software engineer. I am interested in the followi
 <a href="https://github.com/NamNV2496/go-social-network/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NamNV2496&repo=go-social-network&theme=radical" />
 </a> 
+
 <a href="https://github.com/NamNV2496/go-wallet/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NamNV2496&repo=go-wallet&theme=dark" />
 </a>
+
 <a href="https://github.com/NamNV2496/crawler/">
-  <img align="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NamNV2496&repo=crawler&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NamNV2496&repo=crawler&theme=merko" />
 </a>
 
 <a href="https://github.com/NamNV2496/SEO/">
@@ -48,8 +50,6 @@ My name is Nam Nguyen. I am an software engineer. I am interested in the followi
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NamNV2496&repo=springboot_RBAC&theme=onedark" />
 </a>   
 
-  <!--
 <a href="https://github.com/NamNV2496/springboot_jasperReport/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NamNV2496&repo=springboot_jasperReport&theme=cobalt" />
 </a>
- -->
