@@ -29,6 +29,10 @@ My name is Nam Nguyen. I am an software engineer. I am interested in the followi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamNV2496&theme=dracula&hide=css,html,javascript)
 
 
+<a href="https://github.com/NamNV2496/mocktool">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NamNV2496&repo=mocktool&theme=onedark" />
+</a>  
+
 <a href="https://github.com/NamNV2496/go-social-network/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NamNV2496&repo=go-social-network&theme=radical" />
 </a> 
@@ -43,10 +47,6 @@ My name is Nam Nguyen. I am an software engineer. I am interested in the followi
 
 <a href="https://github.com/NamNV2496/go-SEO/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NamNV2496&repo=SEO&theme=gruvbox" />
-</a>  
-
-<a href="https://github.com/NamNV2496/mocktool">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NamNV2496&repo=mocktool&theme=onedark" />
 </a>  
 
 
