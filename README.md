@@ -46,7 +46,7 @@ My name is Nam Nguyen. I am an software engineer. I am interested in the followi
 </a>
 
 <a href="https://github.com/NamNV2496/metamodel/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NamNV2496&repo=SEO&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NamNV2496&repo=metamodel&theme=gruvbox" />
 </a>  
 
 <!-- <a href="https://github.com/NamNV2496/metamodel/">
